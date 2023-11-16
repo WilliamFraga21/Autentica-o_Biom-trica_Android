@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283938945270",
+    "project_id": "loginii-ad05e",
+    "storage_bucket": "loginii-ad05e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283938945270:android:15f044e412397d1b1c94d7",
+        "android_client_info": {
+          "package_name": "com.example.loginii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkLubFuI5N6ChhOfhtLHSM0g9Wq02uc9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
